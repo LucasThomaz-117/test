@@ -1,5 +1,8 @@
-console.log('Lucas Thomaz'); // String = Texto
-console.log("Lucas Thomaz"); // Number = Número
-console.log(`Lucas Thomaz`);
+let nome = 'Lucas'; // variaves servem para salvar dados e valores na memoria
+let idade = 24;
+let nascimento = 2000;
 
-console.log(123.23, 2423,  "Lucas Thomaz de novo");
+console.log(nome, 'tem', idade,'anos de idade');
+console.log(nome,'tem um cachorro');
+console.log(nome,'tem um carro');
+console.log(nome,'nasceu em:',nascimento);
